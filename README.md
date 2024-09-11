@@ -1,17 +1,18 @@
-# http-5110-2024
-Introduction to Web Development
+# http-5110-2024 - Introduction to Web Development
 
-## Course Outline
+This course will introduce students to the roles and responsibilities of a Web Develope
 
-## Module 1 - Introduction to Web Development and the Web Development Program
-- Monitor the time spent on work using a timesheet.
-- Practice using email according to a set of rules.
+> **Note:** The Web Developer role is a new role that is always changing and in this course we will discuss what the job is and how a WebDeveloper behaves. We will also explore those skills and the mental models Web Developers need
 
-## Module 2 - Working with Live Web Sites
-- Explore the Command Line Interface (CLI) using Linux.
+Here is a link to [The course outline](https://humber.ca/transferoptions/course-outlines/outline.html?code=HTTP%205110)
 
-## Module 3 - Introduction to Project Management for Web Development
-- Create a Minimum Viable Product (MVP) description from a known source.
+![Web Development](https://res.cloudinary.com/dqtokk1cn/image/upload/v1726021595/web-development_awkuha.jpg)
 
-## Module 4 - The Basics of Web Computer Programming
-- Create a simple website using HTML and CSS.
+Here is a sample html code that says Hello There using h1 tag!
+
+```html
+<body>
+  <h1>Hello There!</h1>
+</body>
+
+
